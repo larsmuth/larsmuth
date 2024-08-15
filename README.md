@@ -1,6 +1,6 @@
 ## Hello, I'm Lars 👋
 
-I am a Ph.D. candidate specialized in **AI in Engineering** with a passion for **Modeling**, **Machine Learning**, and **Optimization** of complex systems. Currently based in Germany, but free to move, I am on the lookout for challenging opportunities where I can apply my expertise to solve complex problems and contribute to cutting-edge advancements in these fields.
+I am a Ph.D. candidate specialized in **AI in Engineering** with a passion for **Modeling**, **Machine Learning**, and **Optimization** of complex systems as well as **Automating** the corresponding workflows. Currently based in Germany, but free to move, I am on the lookout for challenging opportunities where I can apply my expertise to solve complex problems and contribute to cutting-edge advancements in these fields.
 
 ## 🔍 About Me
 
