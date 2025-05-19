@@ -1,36 +1,25 @@
-## Hello, I'm Lars 👋
+## 👋 Hi, I'm Lars - AI Engineer & PhD Candidate Specializing in ML and Optimization for Dynamical Systems
 
-I am a Ph.D. candidate specialized in **AI in Engineering** with a passion for **Modeling**, **Machine Learning**, and **Optimization** of complex systems as well as **Automating** the corresponding workflows. Currently based in Germany, but free to move, I am on the lookout for challenging opportunities where I can apply my expertise to solve complex problems and contribute to cutting-edge advancements in these fields.
+I’m a **Senior AI Engineer** and **PhD candidate** passionate about applying **Machine Learning** and **Optimization** to solve real-world problems.  
+By day, I work on **Foundation Models** and **Optimization Algorithms** for complex industrial systems. By night, I research **ML-accelerated Multi-objective Optimization** for simulation-driven decision making.
 
-## 🔍 About Me
+I enjoy building PoCs, scalable ML pipelines, automating workflows, and bridging the gap between research and industrial impact.
 
-- 🎓 **Ph.D. Candidate** at Paderborn University, Germany.
-- 🔭 **Research Associate** with extensive experience in machine learning, multi-objective optimization, and AI applications in engineering.
-- 📈 Proven track record of leading research projects, collaborating with major industry players, and presenting findings at international conferences.
-- 💡 Actively engaged in data challenges and machine learning competitions.
+## 🧠 Highlights
 
-## 🛠️ Technical Skills
+- 🧑‍💼 **Senior AI Engineer** at ZF Group — working on foundation models & optimization algorithms for production systems
+- 🎓 **PhD Candidate** in ML-driven multi-objective optimization at Paderborn University
+- 📊 Led applied AI research in simulation, optimization, and predictive modeling
+- 🎤 Speaker at international conferences on ML & simulation-based optimization
 
-- **Programming Languages:** Python, C++, C#, Fortran, MATLAB, SQL
-- **Machine Learning Libraries:** scikit-learn, Pandas, Keras/TensorFlow, XGBoost, SciPy, DEAP
-- **Parallelization:** OpenMP, MPI
-- **Simulation Software:** Simulink, MapleSim, Abaqus FEA, Ansys Mechanical, LS-DYNA, OpenFOAM, MSC Adams
+## 🛠️ Technical Toolbox
+
+- **Languages**: Python, Rust, C++, C#, Fortran, MATLAB, SQL
+- **ML & Data**: PyTorch, TensorFlow, Keras, scikit-learn, XGBoost, Pandas, NumPy
+- **Dev Tools**: Git, Docker, Azure DevOps, Jupyter, VS Code, Linux
  
-## 📫 Let's Connect!
+## 🤝 Let’s Connect
+
+Open to collaborations, new challenges, and great conversations about ML, optimization, and beyond:
 
 - [LinkedIn](https://www.linkedin.com/in/larsmuth/)
-
-<!--
-**larsmuth/larsmuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
